@@ -1,8 +1,5 @@
 # Hey, I'm Aryan! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-# 💫 About Me:
-
-I'm currently learning the **MERN stack** (MongoDB, Express.js, React, Node.js) and focused on building real-world web applications. I’m passionate about software development, problem-solving, and continuously improving my skills.<br><br>### Skills:<br>- Frontend: HTML, CSS, JavaScript, React<br>- Backend: Node.js, Express<br>- Database: MongoDB<br><br>### Goals:<br>- Gain hands-on experience with full-stack projects <br>- Contribute to open source <br>- Build clean, scalable, and efficient applications<br>
 
 ## 🌐 Socials:
 
